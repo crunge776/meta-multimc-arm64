@@ -1,0 +1,33 @@
+{
+    "formatVersion": 1,
+    "packages": [
+        {
+            "name": "LiteLoader",
+            "uid": "com.mumfrey.liteloader"
+        },
+        {
+            "name": "Fabric Loader",
+            "uid": "net.fabricmc.fabric-loader"
+        },
+        {
+            "name": "Intermediary Mappings",
+            "uid": "net.fabricmc.intermediary"
+        },
+        {
+            "name": "Minecraft",
+            "uid": "net.minecraft"
+        },
+        {
+            "name": "Forge",
+            "uid": "net.minecraftforge"
+        },
+        {
+            "name": "LWJGL 2",
+            "uid": "org.lwjgl"
+        },
+        {
+            "name": "LWJGL 3",
+            "uid": "org.lwjgl3"
+        }
+    ]
+}
